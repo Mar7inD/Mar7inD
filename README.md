@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Dotev32@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on **<a href="https://www.linkedin.com/in/software-developer20/">LinkedIn</a>**</h3>
 <p align="left">
 </p>
 
