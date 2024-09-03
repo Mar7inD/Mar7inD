@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Martin Donchev<br><br>A passionate Software Developer<br><br>- 🌱 I’m currently learning C#, .NET and Machine learning<br><br>- 🤝 I’m looking for help with writing clean code<br><br>- 📫 How to reach me Dotev32@gmail.com
+Hi 👋, I'm Martin Donchev<br><br>A passionate Software Developer<br><br>- 🌱 I’m currently learning C#, .NET and Machine learning<br><br>- 🤝 Constantly looking for opportunities to develop<br><br>- 📫 How to reach me Dotev32@gmail.com
 
 
 ## 🌐 Socials:
